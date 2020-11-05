@@ -1,2 +1,1 @@
-# Jon-san
-his name card
+# digital-namecard
