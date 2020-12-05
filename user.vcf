@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Hoh;Vincent;;;
-FN: Vincent  Hoh
+N:Cheang;Jon;;;
+FN: Jon  Cheang
 ORG:Super Dining;
-TITLE:Restaurant Manager, Sushi Zanmai
-EMAIL;type=INTERNET;type=WORK;type=pref:vincenthoh@superdining.com.my
-TEL;type=WORK;type=VOICE:+60122198225
+TITLE:Head of Operation
+EMAIL;type=INTERNET;type=WORK;type=pref:joncheang@superdining.com.my
+TEL;type=WORK;type=VOICE:+60122855016
 item1.ADR;type=WORK;type=pref:;;1, Jalan TP 3, Taman Perindustrian Uep, 47600 Subang Jaya, Selangor;;Malaysia
 item1.X-ABADR:my
 item2.URL;type=pref:superdining.com.my
